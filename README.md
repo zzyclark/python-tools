@@ -17,4 +17,5 @@ e.g data.txt
 4 5
 
 Each line hold a x,y coordiante, sperate with space
+
 **Free Software, Oh Yeah**
